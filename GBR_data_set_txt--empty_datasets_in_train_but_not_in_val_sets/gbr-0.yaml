@@ -1,0 +1,6 @@
+names:
+- cots
+nc: 1
+path: /home/xyb/Project/Kaggle/GreatBarrierReef/GBR_data_set_txt/
+train: /home/xyb/Project/Kaggle/GreatBarrierReef/GBR_data_set_txt/train-0.txt
+val: /home/xyb/Project/Kaggle/GreatBarrierReef/GBR_data_set_txt/val-0.txt
